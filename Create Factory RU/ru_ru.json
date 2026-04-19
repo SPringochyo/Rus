@@ -1,0 +1,34 @@
+{
+  "item.create_factory.chocolate_roll": "Шоколадный рулет",
+  "item.create_factory.honey_glazed_berries": "Ягоды глазированные медом",
+  "item.create_factory.chocolate_apple": "Яблоко в шоколаде",
+  "item.create_factory.caramel_roll": "Карамельный рулет",
+  "item.create_factory.dark_chocolate_roll": "Рулет с тёмным шоколадом",
+  "item.create_factory.honey_roll": "Медовый рулет",
+  "item.create_factory.ruby_chocolate_roll": "Рулет с розовым шоколадом",
+  "item.create_factory.white_chocolate_roll": "Рулет с белым шоколадом",
+  "item.create_factory.sweet_berries_jam_roll": "Рулет с ягодым джемом",
+
+  "item.create_factory.caramel_apple": "Яблоко в карамели",
+  "item.create_factory.dark_chocolate_apple": "Яблоко в тёмном шоколаде",
+  "item.create_factory.ruby_chocolate_apple": "Яблоко в розовом шоколаде",
+  "item.create_factory.white_chocolate_apple": "Яблоко в белом шоколаде",
+
+  "item.create_factory.chocolate_waffle": "Шоколадная вафля",
+  "item.create_factory.caramel_waffle": "Карамельная вафля",
+  "item.create_factory.dark_chocolate_waffle": "Dark Chocolate Waffle",
+  "item.create_factory.honey_waffle": "Медовая вафля",
+  "item.create_factory.ruby_chocolate_waffle": "Вафля с розовым шоколадом",
+  "item.create_factory.white_chocolate_waffle": "Вафля с белым шоколадом",
+  "item.create_factory.sweet_berries_jam_waffle": "Вафля с ягодным джемом",
+
+  "item.create_factory.waffle": "Вафля",
+  "item.create_factory.uncooked_waffle": "Сырая вафля",
+  "item.create_factory.cake_paste": "Вафельное тесто",
+
+  "block.create_factory.sweet_berries_jam": "Джем из сладких ягод",
+  "fluid.create_factory.sweet_berries_jam": "Джем из сладких ягод",
+  "item.create_factory.sweet_berries_jam_bucket": "Ведро джема из сладких ягод",
+
+  "creativetab.createfactory_tab": "Create: Factory"
+}
